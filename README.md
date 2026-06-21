@@ -1,2 +1,14 @@
 # clubiqy-pages
-HTML page archive and documentation
+
+HTML 页面发布记录
+
+本项目用于存档页面文件，便于长期保留和检查。
+
+## 结构说明
+
+- 根目录用于存放发布页面
+- 仓库说明用于辅助识别用途
+
+## 查看方式
+
+可以通过仓库文件列表或 GitHub Pages 查看已发布页面。
